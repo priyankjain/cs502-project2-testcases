@@ -1,0 +1,3 @@
+main:k,x
+getmyabs:x
+global:b,d,e

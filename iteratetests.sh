@@ -8,7 +8,7 @@ fi
 CC=$1
 
 # Add folders to iterate through
-declare -a test_folders=("regression_tests" "project2_tests")
+declare -a test_folders=("regression_tests" "project2_tests" "NewProj2Cases")
 
 # Check to make sure cc1 exists at the given path
 if [ ! -f $CC ]; then
